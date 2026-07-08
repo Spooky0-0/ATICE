@@ -1,6 +1,6 @@
-# Apex-Audit-Engine ($APEX$)
+# Automated Transaction & Tax Compliance 
 
-The Apex-Audit-Engine ($APEX$) is an enterprise-grade algorithmic tax compliance and double-entry auditing system. Designed for FinTech platforms, it ingests multi-format transactional data streams (legacy Point-of-Sale CSV exports and modern E-Commerce JSON API payloads), normalizes them, and batch-loads them into the Relational Ledger Vault (a highly constrained, immutable database). It programmatically validates South African VAT calculations (standard-rated, zero-rated, and exempt) and double-entry header-to-line reconciliation consistency.
+The ATICE-Audit-Engine is an SME-grade algorithmic tax compliance and double-entry auditing system. Designed for FinTech platforms, it ingests multi-format transactional data streams (legacy Point-of-Sale CSV exports and modern E-Commerce JSON API payloads), normalizes them, and batch-loads them into the Relational Ledger Vault (a highly constrained, immutable database). It programmatically validates South African VAT calculations (standard-rated, zero-rated, and exempt) and double-entry header-to-line reconciliation consistency.
 
 ---
 
