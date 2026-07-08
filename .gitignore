@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases and Local logs
+*.db
+*.sqlite
+logs/dead_letter.json
+audit_report.json
+data/raw_pos.csv
+data/raw_ecommerce.json
+
+# Environment and IDE settings
+.venv/
+venv/
+.vscode/
+.idea/

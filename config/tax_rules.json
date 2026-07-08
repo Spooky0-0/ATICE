@@ -1,0 +1,40 @@
+{
+  "standard_rate": 0.15,
+  "zero_rate": 0.0,
+  "exempt_rate": 0.0,
+  "tax_categories": {
+    "standard": {
+      "rate": 0.15,
+      "description": "Standard-rated goods and services subject to 15% statutory VAT"
+    },
+    "zero_rated": {
+      "rate": 0.0,
+      "description": "Zero-rated items (e.g. basic foodstuffs, exports) subject to 0% VAT"
+    },
+    "exempt": {
+      "rate": 0.0,
+      "description": "Exempt services (e.g. financial services, education, passenger transport) not subject to VAT"
+    }
+  },
+  "exempt_keywords": [
+    "tuition",
+    "interest",
+    "rent",
+    "bus ticket",
+    "train fare",
+    "school fee",
+    "medical aid premium"
+  ],
+  "zero_rated_keywords": [
+    "brown bread",
+    "milk",
+    "maize meal",
+    "rice",
+    "dried beans",
+    "lentils",
+    "fresh fruit",
+    "fresh vegetables",
+    "petrol",
+    "diesel"
+  ]
+}

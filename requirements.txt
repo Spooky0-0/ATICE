@@ -1,0 +1,2 @@
+# PostgreSQL database driver (Optional; defaults to standard library SQLite if not provided)
+psycopg2-binary>=2.9.0
