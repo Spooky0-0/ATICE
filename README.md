@@ -174,3 +174,5 @@ The corporate package exported to `audit_report.json` contains:
   }
 }
 ```
+
+License: Proprietary.
